@@ -3,7 +3,7 @@
 This repository contains my projects on which I've been practicing to work with System Controllers and User Input 
 Implements MessageUI, SafariServices, UIImagePicker and MFMailCompose
 
- <table>
+ <table align = "center">
   <tr>
     <td>First Screen Page</td>
      <td>Share Screen</td>
@@ -16,14 +16,17 @@ Implements MessageUI, SafariServices, UIImagePicker and MFMailCompose
   </tr>
  </table>
  
- <table>
+ <table align = "center">
   <tr>
     <td>Gallery Screen</td>
      <td>Mail Screen</td>
+     <td>GIF</td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/30757557/172325318-b90757ea-3383-4ec7-93e1-bf288ce62dfb.png" width="200"></td>
     <td><img src="https://user-images.githubusercontent.com/30757557/172317160-f3c6ff27-0ab7-48cb-8eee-61dc2cd74189.png" width="200"></td>
+    <td><img src="https://user-images.githubusercontent.com/30757557/172575185-bdce3d5b-9d6f-4730-ad02-2ce402c2b4df.gif" width="200"></td>
+
   </tr>
  </table>
  
