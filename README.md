@@ -32,7 +32,7 @@ Implements MessageUI, SafariServices, UIImagePicker and MFMailCompose
  
  # Swift_UserInput
 <p><b>User Input demo is on userInput branch</b></p> 
- <table>
+ <table align = "center">
   <tr>
     <td>GIF</td>
   </tr>
