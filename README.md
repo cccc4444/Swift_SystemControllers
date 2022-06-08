@@ -29,5 +29,12 @@ Implements MessageUI, SafariServices, UIImagePicker and MFMailCompose
  
  # Swift_UserInput
 <p><b>User Input demo is on userInput branch</b></p> 
-https://user-images.githubusercontent.com/30757557/172572922-5a4c9048-f626-4e7d-a2b0-68be04e0c476.mp4
+ <table>
+  <tr>
+    <td>GIF</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/30757557/172574247-511b4a25-d916-4531-892f-7143fffcfb57.gif" width="200"></td>
+  </tr>
+ </table>
 
